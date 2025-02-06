@@ -1,3 +1,7 @@
+0.8.1 (2025-02-06)
+------------------
+- Pins DuckDB version to 1.1.3 to ensure capatability with MotherDuck
+
 0.3.0 (2022-04-11)
 ------------------
 
